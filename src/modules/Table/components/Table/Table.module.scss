@@ -1,0 +1,12 @@
+.Table{
+    background: white;
+    >.isLoading{
+        display:flex;
+        margin: 1em 0;
+        justify-content:center;
+    }
+    >.isEmpty{
+        text-align: center;
+        margin: 1em 0;
+    }
+}
